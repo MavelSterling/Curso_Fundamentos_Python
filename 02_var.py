@@ -1,3 +1,5 @@
+# coding=utf-8
+
 print("Hola, vars")
 
 my_name = "name"
