@@ -1,5 +1,6 @@
 print("Hola, esto es python")
 
+# Operaciones básicas
 print(12 + 12)
 print(40 -12)
 print(2 * 3)
