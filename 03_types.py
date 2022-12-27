@@ -1,5 +1,21 @@
 # coding=utf-8
 
+'''
+Tipos de datos primitivos
+    Integer: Números enteros
+    Float: Números decimales
+    String: Cadena de caracteres
+    Boolean: Verdadero o Falso
+Tipos de datos 
+    texto: str
+    Numérico: int, float, complex
+    Secuencias: list, tuple, range
+    Mapeo: dict
+    Set Types: set, frozenset
+    Booleanos: bool
+    Binarios: bytes, bytearray, memoryview
+
+'''
 
 # string
 my_name = "Nombre 1"
