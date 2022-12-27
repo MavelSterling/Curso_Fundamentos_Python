@@ -34,7 +34,13 @@ is_single = False
 print('is_single =>', is_single)
 print(type(is_single))
 
+true=True
+false=False
+print(f'Los datos booleanos resultan ser ya sean :{true},{false}')
+print(type(true))
+print(type(false))
 # inputs
 my_age = input('¿Cuál es tu edad? ')
 print('my_age =>', my_age)
 print(type(my_age))
+
