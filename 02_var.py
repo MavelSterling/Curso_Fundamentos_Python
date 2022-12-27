@@ -20,3 +20,13 @@ print("usando input", my_name)
 # input
 my_age = input("¿Cuál es tu edad?")
 print("usando input", my_age)
+
+text = input('Digita un texto => ')
+print(text)
+
+# Ahora puedes crear tus variables 👇
+name = input('Digita tu nombre => ')
+print(name)
+
+age = input('Digita tu edad => ')
+print(age)
