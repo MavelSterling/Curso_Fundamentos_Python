@@ -28,6 +28,8 @@ print("5 es igual a 2 ?:", 5 == 2)
 print("6 es distinto a 10 ?: ", 6 != 10)
 print("6 es distinto a 6 ?: ",6 != 6)
 
+
+
 print("Apple" == 'Apple') # true 
 print("Apple" == 'apple') # false
 print("'1' == 1 ?: ","1" == 1)
