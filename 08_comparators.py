@@ -23,7 +23,7 @@ print(2 <= 2)
 print(6 == 6)
 print(5 == 2)
 
-# !=
+# Distinto !=
 
 print(6 != 10)
 print(6 != 6)
