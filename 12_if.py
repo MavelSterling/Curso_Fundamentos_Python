@@ -33,6 +33,7 @@ if (result == 0):
 else:
 	print('Es impar')
  
+
  
  
  
