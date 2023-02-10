@@ -41,3 +41,5 @@ print(numbers_a)
 strings = ['re', 'ab', 'ed'] # Crear lista
 strings.sort() # Orderar el lista por el alfabeto
 print(strings)
+
+# no se ordenar listas con datos mezclados : string, numbers
