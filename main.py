@@ -17,7 +17,7 @@ while True:
     print('user_wins', user_wins)
 
     user_option = input('piedra, papel o tijera => ')
-    user_option = user_option.lower()
+    user_option = user_option.lower() # para que las opciones esten en minúsculas
 
     rounds += 1
 
