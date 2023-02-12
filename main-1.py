@@ -25,6 +25,7 @@ while True:
       print('esa opcion no es valida')
       continue
 
+    # Se escoge de forma aleatoria piedra, papel y tijera
     computer_option = random.choice(options)
 
     print('User option =>', user_option)
