@@ -26,7 +26,7 @@ print(person.keys())
 print('values')
 print(person.values())
 
-
+print("----------------------------------------------------------------")
 Harry_potter={
     "name": "Harry Potter",
     "species": "human",
@@ -52,7 +52,7 @@ Harry_potter={
 
 #Agregando un dato a un diccionario que esta en un diccionario ppal
 print(Harry_potter['wand']['core'])
-DATA2['wand']['core']+= ' dragon heartstring'
+Harry_potter['wand']['core']+= ' dragon heartstring'
 print(Harry_potter['wand']['core'])
 
 #agregando un valor a una lista que esta en un diccionario ppal
