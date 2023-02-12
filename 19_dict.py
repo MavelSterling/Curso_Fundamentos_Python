@@ -8,7 +8,7 @@ person = {
 print(person)
 
 person['name'] = 'santi'
-person['age'] -= 50
+person['age'] -= 50 # Le dismimnuye 50 a la edad
 person['langs'].append('rust')
 print(person)
 
