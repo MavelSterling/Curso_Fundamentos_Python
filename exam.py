@@ -23,3 +23,5 @@ print(False or True)
 print((8 / 2) + 4 * 8)
 
 print( 4 != 10)
+
+countries = ['MX' ]
