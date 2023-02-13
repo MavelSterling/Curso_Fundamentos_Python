@@ -10,9 +10,8 @@ print(matriz[0])
 # Imprime el elemento 2 de la primera fila
 print(matriz[0][1])
 
-'''
-Se recorre las filas de la matriz y por cada fila recorremos cada una de las columnas
-'''
+# Se recorre las filas de la matriz y por cada fila se recorre cada una de las columnas
+
 
 for row in matriz:
   print(row)
