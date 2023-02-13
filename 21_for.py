@@ -4,6 +4,9 @@ for element in range(1, 21):
 
 '''
 
+for element in range(1, 20):
+  print(element)
+
 my_list = [23, 45, 67, 89 ,43]
 for element in my_list:
   print(element)
@@ -42,3 +45,11 @@ people = [
 
 for person in people:
   print('name =>', person['name'])
+  
+# encontrar las mayusculas   
+texto = 'hola. Hoy vi a jUAn'
+mayusculas = []
+for i in texto:
+  if i.isupper():
+    mayusculas.append(i)
+print (mayusculas)
