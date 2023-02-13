@@ -11,7 +11,7 @@ print(matriz[0])
 print(matriz[0][1])
 
 '''
-Recorremos las filas de la matriz y por cada fila recorremos cada una de las columnas
+Se recorre las filas de la matriz y por cada fila recorremos cada una de las columnas
 '''
 
 for row in matriz:
